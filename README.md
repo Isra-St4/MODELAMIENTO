@@ -1,2 +1,3 @@
 # MODELAMIENTO
-Actividades autónomas, script 
+Scrip en R
+Base de datos: music.csv
