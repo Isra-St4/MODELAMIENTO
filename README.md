@@ -1,0 +1,2 @@
+# MODELAMIENTO
+Actividades autónomas, script 
